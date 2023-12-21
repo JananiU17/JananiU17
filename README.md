@@ -1,3 +1,5 @@
+![Navy And White Geometric Technology  LinkedIn Banner](https://github.com/JananiU17/JananiU17/assets/154549994/9ef92dac-2489-4ce2-9224-a84d5b02f08e)
+
 <h1 align="center">Hi 👋, I'm Janani Uthpala Siriwardane</h1>
 <h3 align="center">Undergraduate at University Of Moratuwa</h3>
 
@@ -10,7 +12,7 @@
 - 🌱 I’m currently learning **java,react,react native**
 
 - 💬 Ask me about **html,css**
-![Navy And White Geometric Technology  LinkedIn Banner](https://github.com/JananiU17/JananiU17/assets/154549994/9ef92dac-2489-4ce2-9224-a84d5b02f08e)
+
 
 - 📫 How to reach me **uthpala1217@gmail.com**
 
