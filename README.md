@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jananiu17" alt="jananiu17" /></a> </p>
 
-- 🔭 I’m currently working on **L1S2 Software Project**
+- 🔭 I’m currently working on **L2S1 Software Development Project**
 
 - 🌱 I’m currently learning **Angular,React native**
 
