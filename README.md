@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **L1S2 Software Project**
 
-- 🌱 I’m currently learning **Angular,react native**
+- 🌱 I’m currently learning **Angular,React-native,Node JS,Bootstrap**
 
 - 💬 Ask me about **html,css,java**
 
