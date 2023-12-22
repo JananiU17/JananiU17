@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **L1S2 Software Project**
 
-- 🌱 I’m currently learning **java,react,react native**
+- 🌱 I’m currently learning **Angular,react native**
 
-- 💬 Ask me about **html,css**
+- 💬 Ask me about **html,css,java**
 
 
 - 📫 How to reach me **uthpala1217@gmail.com**
