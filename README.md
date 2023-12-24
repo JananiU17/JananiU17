@@ -111,6 +111,7 @@
 <br> 
 
 ---
+<br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
@@ -118,7 +119,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jananiu17&theme=tokyonight_duo" alt="JananiU17" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jananiu17" alt="JananiU17" /></p>
 
 </details>
   
@@ -167,11 +168,6 @@
 </div>
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jananiu17&show_icons=true&locale=en&layout=compact" alt="jananiu17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jananiu17&show_icons=true&locale=en" alt="jananiu17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jananiu17&" alt="jananiu17" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jananiu17" alt="jananiu17" /></a> </p>
-
+<
 
