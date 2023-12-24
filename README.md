@@ -8,6 +8,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
+- ✏️ I’m currently reading my Degree  **Bachelor of Science Honours in Information Technology, University of Moratuwa**
+  
 - 🔭 I’m currently working on **L2S1 Software Development Project**
 
 - 🌱 I’m currently learning **Angular,React native,Node.js**
@@ -17,7 +19,7 @@
 - 📫 How to reach me **uthpala1217@gmail.com**
 
 - ⚡ Passions **Deep love for Music and Singing**
-- 
+ 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
