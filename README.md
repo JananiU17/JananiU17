@@ -119,7 +119,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jananiu17" alt="JananiU17" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jananiu17&theme=gruvbox" alt="JananiU17" /></p>
 
 </details>
   
@@ -129,8 +129,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img alt="jananiu17's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jananiu17&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jananiu17&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="jananiu17" />  
+	<img alt="jananiu17's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jananiu17&show_icons=true&count_private=true&locale=en&theme=gruvbox&layout=compact" height="230px"/></a>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jananiu17&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="jananiu17" />  
 <br/>
 
   </p>
@@ -149,7 +149,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jananiu17&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="JananiU17" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jananiu17&layout=compact&theme=gruvbox&column=4&margin-w=15&margin-h=15" alt="JananiU17" /></a> </p>
 
 	
 </details>
