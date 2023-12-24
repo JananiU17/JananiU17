@@ -3,13 +3,14 @@
 <h1 align="center">Hi 👋, I'm Janani Uthpala Siriwardane</h1>
 <h3 align="center">Undergraduate at University Of Moratuwa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jananiu17&label=Profile%20views&color=0e75b6&style=flat" alt="jananiu17" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jananiu17&label=Profile%20views&color=0e75b6&style=flat" alt="jananiu17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jananiu17" alt="jananiu17" /></a> </p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 
 - 🔭 I’m currently working on **L2S1 Software Development Project**
 
-- 🌱 I’m currently learning **Angular,React native**
+- 🌱 I’m currently learning **Angular,React native,Node.js**
 
 - 💬 Ask me about **HTML,CSS,Java**
 
@@ -31,5 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jananiu17&show_icons=true&locale=en" alt="jananiu17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jananiu17&" alt="jananiu17" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jananiu17" alt="jananiu17" /></a> </p>
 
 
