@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning **Angular,React native,Node.js,bootstrap**
 
-- 💬 Ask me about **HTML,CSS,Java**
-
 - 📫 How to reach me **uthpala1217@gmail.com**
 
 - ⚡ Passions **Deep love for Music and Singing**
