@@ -83,8 +83,7 @@
    &emsp;
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20Idea-%23FE7A16.svg?style=plastic&logo=intellij%20idea&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-</p>
+   
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
@@ -102,9 +101,6 @@
 <p align="center">
    &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  
 </p>
 
 <br> 
