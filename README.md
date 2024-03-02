@@ -12,7 +12,7 @@
   
 - 🔭 I’m currently working on **L2S1 Software Development Project**
 
-- 🌱 I’m currently learning **Angular,React native,Node.js,bootstrap**
+- 🌱 I’m currently learning **Angular,bootstrap,Node.js**
 
 - 📫 How to reach me **uthpala1217@gmail.com**
 
