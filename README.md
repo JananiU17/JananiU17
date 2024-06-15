@@ -131,15 +131,6 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![JananiU17's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jananiu17&theme=github	)](https://github.com/jananiu17/github-readme-activity-graph)
-
- 
-</details>
-
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
