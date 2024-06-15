@@ -140,16 +140,6 @@
 	
 </details>
 	
-<div>
-  <p align="center">
-	<a href="https://github.com/jananiU17/">
-      		<img src="" alt="GitHub Stats" />
-    	</a>
-
-  </p>
-</div>
-</details>
-
 
 <
 
