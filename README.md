@@ -125,8 +125,9 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img alt="jananiu17's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jananiu17&show_icons=true&count_private=true&locale=en&theme=gruvbox&layout=compact" height="230px"/></a>
+	 </p>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jananiu17&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="jananiu17" />  
-  </p>
+ 
   
 </details>
 
@@ -139,7 +140,4 @@
 
 	
 </details>
-	
-
-<
 
