@@ -118,26 +118,28 @@
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+  <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
 	
 <p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jananiu17&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="jananiu17" />  
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img alt="jananiu17's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jananiu17&show_icons=true&count_private=true&locale=en&theme=gruvbox&layout=compact" height="230px"/></a>
-	 </p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jananiu17&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="jananiu17" />  
- 
-  
+</p>
+
 </details>
 
+<br>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details><summary><h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jananiu17&layout=compact&theme=gruvbox&column=4&margin-w=15&margin-h=15" alt="JananiU17" /></a> </p>
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=jananiu17&layout=compact&theme=gruvbox&column=4&margin-w=15&margin-h=15" alt="JananiU17" />
+    </a> 
+</p>
 
-	
 </details>
-
