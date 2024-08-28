@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Angular,bootstrap,Node.js**
 
-- 📫 How to reach me **uthpala1217@gmail.com**
+- 📫 How to reach me **jananisiriwardane17@gmail.com**
 
 - ⚡ Passions **Deep love for Music and Singing**
  
