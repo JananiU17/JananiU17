@@ -9,8 +9,6 @@
 
 
 - ✏️ I’m currently reading my Degree  **Bachelor of Science Honours in Information Technology, University of Moratuwa**
-  
-- 🔭 I’m currently working on **L2S1 Software Development Project**
 
 - 🌱 I’m currently learning **Angular,bootstrap,Node.js**
 
