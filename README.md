@@ -108,38 +108,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jananiu17&theme=gruvbox" alt="JananiU17" /></p>
-
-</details>
-  
-  <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jananiu17&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="jananiu17" /> 
-	<br>
-	<br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img alt="jananiu17's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jananiu17&show_icons=true&count_private=true&locale=en&theme=gruvbox&layout=compact" height="230px"/></a>
-</p>
-
-</details>
-
-<br>
-
-<details><summary><h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=jananiu17&layout=compact&theme=gruvbox&column=4&margin-w=15&margin-h=15" alt="JananiU17" />
-    </a> 
-</p>
-
-</details>
+| ![JananiU's github stats](https://github-readme-stats.vercel.app/api?username=JananiU17&show_icons=true&theme=radical)             | ![JananiU GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JananiU17&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JananiU17&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=JananiU17&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
