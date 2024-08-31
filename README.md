@@ -10,7 +10,7 @@
 
 - ✏️ I’m currently reading my Degree  **Bachelor of Science Honours in Information Technology, University of Moratuwa**
 
-- 🌱 I’m currently learning **Angular,bootstrap,Node.js**
+- 🌱 I’m currently learning **React,Node.js**
 
 - 📫 How to reach me **jananisiriwardane17@gmail.com**
 
