@@ -1,4 +1,4 @@
-![Navy And White Geometric Technology  LinkedIn Banner (2)](https://github.com/JananiU17/JananiU17/assets/154549994/50af4114-a6e9-45dd-bc2b-baee028de541)
+![New Banner Image](https://github.com/JananiU17/JananiU17/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner1.jpg)
 
 <h1 align="center">Hi 👋, I'm Janani Siriwardane</h1>
 <h3 align="center">Undergraduate at University Of Moratuwa</h3>
