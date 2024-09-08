@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **React,Node.js**
 
+- 📝 I regularly write articles on **Medium**
+
 - 📫 How to reach me **jananisiriwardane17@gmail.com**
 
 - ⚡ Passions **Deep love for Music and Singing**
